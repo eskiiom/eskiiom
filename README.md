@@ -1,10 +1,12 @@
-<img src="https://komarev.com/ghpvc/?username=eskiiom&style=for-the-badge">
-- 👋 Hi, I’m @eskiiom
-- 👀 I’m interested in a lot of things :)
-- 🌱 I’m currently learning parenting
-- 💞️ I’m looking to collaborate on any project I could help (but I'm not good at coding)
-- 📫 How to reach me is here
-
+<p><img src="https://komarev.com/ghpvc/?username=eskiiom&style=for-the-badge">
+<ul>
+  <li>👋 Hi, I’m @eskiiom</li>
+  <li>👀 I’m interested in a lot of things :)</li>
+  <li>🌱 I’m currently learning parenting</li>
+  <li>💞️ I’m looking to collaborate on any project I could help (but I'm not good at coding)</li>
+  <li>📫 How to reach me is here</li>
+</ul>
+</p>
 <!---
 eskiiom/eskiiom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
