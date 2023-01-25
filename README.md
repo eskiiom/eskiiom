@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=eskiiom&style=for-the-badge">
 - 👋 Hi, I’m @eskiiom
 - 👀 I’m interested in a lot of things :)
 - 🌱 I’m currently learning parenting
